@@ -1,33 +1,36 @@
 name: Generate Snake Animation
 
 on:
-  # 每 24 小时自动运行一次
   schedule:
     - cron: "0 0 * * *" 
-  # 允许我们手动点击按钮触发运行
   workflow_dispatch:
+
+# 🌟 强行赋予写入权限，彻底解决 128 报错
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 升级到 v4，消除 Node.js 警告
       - name: Clone Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          # 输出两种模式的 SVG 动画：白天模式和暗黑模式
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             
+      # 升级到 v4，消除 Node.js 警告
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output # 动画将保存在一个叫 output 的新分支里
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
