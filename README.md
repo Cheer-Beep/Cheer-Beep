@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=Cheer-Beep&label=Profile%20Views&color=000000&style=flat-square" alt="Visitor Count" />
 
 </div>
-🐍 贪吃蛇吞噬贡献度 | Code Eater
+Code Eater
 
 <div align="center">
   <picture>
