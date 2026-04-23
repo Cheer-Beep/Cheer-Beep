@@ -9,6 +9,15 @@
 <img src="https://komarev.com/ghpvc/?username=Cheer-Beep&label=Profile%20Views&color=000000&style=flat-square" alt="Visitor Count" />
 
 </div>
+### 🐍 贪吃蛇吞噬贡献度 | Code Eater
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cheer-Beep/Cheer-Beep/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cheer-Beep/Cheer-Beep/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cheer-Beep/Cheer-Beep/output/github-snake.svg">
+  </picture>
+</div>
 
 ---
 
