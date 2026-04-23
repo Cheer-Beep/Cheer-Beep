@@ -55,19 +55,15 @@
 
 ### 📊 GitHub 动态雷达 | GitHub Stats
 
-
-
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheer-Beep&theme=transparent&bg_color=ffffff&color=000000&line=333333&point=000000&area=true&hide_border=true" alt="Activity Graph" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cheer-Beep&theme=transparent&area=true&hide_border=true&v=1" alt="Activity Graph" width="85%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cheer-Beep&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheer-Beep&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cheer-Beep&theme=transparent&hide_border=true&v=1" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheer-Beep&layout=compact&theme=transparent&hide_border=true&v=1" height="160" />
 </div>
 
 
