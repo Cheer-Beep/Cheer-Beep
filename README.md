@@ -59,10 +59,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cheer-Beep&theme=transparent&hide_border=true&v=1" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheer-Beep&layout=compact&theme=transparent&hide_border=true&v=1" height="160" />
-</div>
+
 
 
 ---
