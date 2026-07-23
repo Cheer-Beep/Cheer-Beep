@@ -23,7 +23,7 @@
 
 ### 👨‍💻 关于我 | About Me
 
-- 💡 **专注领域**：**AI Agent** 和大模型应用落地（基于 LangChain, RAG等技术）。
+- 💡 **专注领域**：**AI Agent** 和大模型应用落地。
 - 📫 **联系方式**：xiny_6502@outlook.com
 
 ---
